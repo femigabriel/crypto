@@ -52,7 +52,7 @@ function Header() {
               CRAPPO CR¥PTO
             </Typography>
             {/* <Button color="inherit">Login</Button> */}
-            {/* <Select
+            <Select
               variant="outlined"
               labelId="demo-simple-select-label"
               id="demo-simple-select"
@@ -61,8 +61,8 @@ function Header() {
               onChange={(e) => setCurrency(e.target.value)}
             >
               <MenuItem value={"USD"}>USD</MenuItem>
-              <MenuItem value={"INR"}>INR</MenuItem>
-            </Select> */}
+              <MenuItem value={"INR"}>NRA</MenuItem>
+            </Select>
           </Toolbar>
         </Container>
       </AppBar>
