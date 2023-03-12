@@ -52,7 +52,7 @@ function Header() {
               CRAPPO CRYPTO
             </Typography>
             {/* <Button color="inherit">Login</Button> */}
-            <Select
+            {/* <Select
               variant="outlined"
               labelId="demo-simple-select-label"
               id="demo-simple-select"
@@ -62,7 +62,7 @@ function Header() {
             >
               <MenuItem value={"USD"}>USD</MenuItem>
               <MenuItem value={"INR"}>INR</MenuItem>
-            </Select>
+            </Select> */}
           </Toolbar>
         </Container>
       </AppBar>
